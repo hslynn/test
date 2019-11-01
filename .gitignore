@@ -1,0 +1,4 @@
+*.pyc
+jitfailure*
+test*
+*.png
